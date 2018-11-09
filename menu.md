@@ -1,7 +1,8 @@
 1101684
 
-Pizza Margherita
-Pizza Capricciosa
+Pizze:
+        Margherita
+        Capricciosa
 
 
 pizzeria Bella Napoli
